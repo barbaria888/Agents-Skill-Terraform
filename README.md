@@ -1,6 +1,6 @@
 <img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
 
-# 🏗️ Terraform: Up & Running — AI Knowledge Skill
+# <img  height="70" alt="opentofu" src="https://github.com/user-attachments/assets/f8534073-a35b-4273-9cc5-274dd60dea21" /><img  height="70" alt="terraform" src="https://github.com/user-attachments/assets/9b7da754-a646-4f5b-b775-bb750747bd1f" /> Terraform: Up & Running — AI Knowledge Skill
 
 > *"Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently."*
 > — Yevgeniy Brikman, *Terraform: Up & Running* (3rd Edition, O'Reilly, 2023)
