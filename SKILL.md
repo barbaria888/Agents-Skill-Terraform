@@ -24,7 +24,6 @@ triggers:
 
 --- 
 
-<img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
 
 # Terraform: Up & Running — Skill Reference
 
